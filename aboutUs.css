@@ -1,0 +1,38 @@
+body{
+  background-color: #867ae9;
+}
+
+header, footer {
+  height: 100px;
+  background-color: #fff5ab;
+}
+
+/* main{
+  height: 360px;
+} */
+
+
+div{
+  height: 250px ;
+  width: 250px;
+  background-color: #c049c4ea;
+  display: inline-block;
+  /* margin: 10px; */
+  padding-top: 20px;
+}
+
+section{
+  background-color: #ffcead;
+  margin: 20px;
+  text-align :center;
+  padding: 20px;
+}
+
+
+.leftMargin{
+  margin-left: 200px;
+}
+
+.coloring{
+  background-color: #f2f4c3;
+}
